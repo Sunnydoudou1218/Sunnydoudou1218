@@ -18,6 +18,8 @@ MSc coursework at CUHK, and one question I keep coming back to. An agent has a l
 
 ## Selected research
 
+**Undergraduate thesis: spillovers from public-welfare videos on Bilibili.** A full year of creator data, 276 propensity-matched pairs, two-way fixed effects, robust to a Callaway–Sant'Anna staggered difference-in-differences. Engagement on a creator's later non-welfare videos rose; sentiment moved the same way but did not reach significance under most specifications. The gain sat with the creators who had been less active.
+
 **Churn prediction, interpretable end to end.** 16,000 customer records cut to 27 variables. Test accuracy 78.1% from a logistic baseline, 82.1% with a hinge loss, then 95.4% with an EBM while every variable kept a readable effect.
 
 **AI companions and self-disclosure.** I built the agent on Coze; our team's paper on how output modality shifts perceived social presence, with attitude toward AI as a moderator, appeared at CNAIS 2025.
